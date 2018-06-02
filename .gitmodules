@@ -7,3 +7,6 @@
 [submodule "cbdtv"]
 	path = cbdtv
 	url = git@github.com:icaoberg/cbdtv.git
+[submodule "cbd-directory"]
+	path = cbd-directory
+	url = git@github.com:icaoberg/cbd-directory.git
